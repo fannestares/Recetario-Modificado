@@ -1,0 +1,77 @@
+{
+    "Carapulcra": {
+    "Info": {
+        "duracion": "1 h 45 min",
+        "porciones": "6 porciones",
+        "dificultad": "Media",
+        "categoria": "Plato de fondo",
+        "calorias": "550 kcal por porción",
+        "descripcion": "Guiso tradicional peruano a base de papa seca, maní y carne de cerdo, típico de la costa sur del Perú"
+    },
+    "Ingredientes": [
+        "500 g de papa seca",
+        "500 g de carne de cerdo (costilla o panceta)",
+        "1/2 taza de maní tostado y molido",
+        "2 cucharadas de ají panca molido",
+        "1 cucharada de ají mirasol molido",
+        "1 cebolla roja grande picada",
+        "3 dientes de ajo molidos",
+        "1 cucharadita de comino",
+        "1 cucharadita de pimienta",
+        "1 cucharada de sal",
+        "1/2 taza de chicha de jora",
+        "1 litro de caldo de carne",
+        "4 cucharadas de aceite vegetal"
+    ],
+    "Procedimiento": [
+        "Remojar la papa seca en agua caliente por 30 minutos, escurrir y reservar.",
+        "Sazonar la carne de cerdo con sal, pimienta y comino.",
+        "En una olla grande, calentar el aceite y dorar la carne. Retirar y reservar.",
+        "En la misma olla, sofreír la cebolla hasta que esté transparente.",
+        "Agregar el ajo, ají panca y ají mirasol; cocinar hasta que el aderezo esté bien concentrado.",
+        "Incorporar la carne dorada y mezclar bien.",
+        "Agregar la chicha de jora y dejar evaporar el alcohol por unos minutos.",
+        "Añadir la papa seca, el maní molido y el caldo caliente.",
+        "Cocinar a fuego bajo, moviendo constantemente, por 40–50 minutos hasta que espese.",
+        "Rectificar la sazón y servir caliente, tradicionalmente acompañado de arroz blanco o sopa seca."
+    ],
+    "Imagen": "https://www.comida-peruana.com/base/stock/Recipe/carapulcra/carapulcra_web.jpg.webp",
+    "color": "#8D6E63"
+    },
+
+    "Juane": {
+    "Info": {
+        "duracion": "1 h 30 min",
+        "porciones": "4 personas",
+        "dificultad": "Media",
+        "categoria": "Plato Principal",
+        "calorias": "480 por porción",
+        "descripcion": "Plato tradicional de la Amazonía peruana preparado con arroz sazonado, pollo y envuelto en hojas de bijao"
+    },
+    "Ingredientes": [
+        "2 tazas de arroz",
+        "4 presas de pollo",
+        "2 huevos cocidos",
+        "1 cebolla picada",
+        "2 dientes de ajo molidos",
+        "2 cucharadas de palillo (cúrcuma)",
+        "1 cucharadita de comino",
+        "Sal y pimienta al gusto",
+        "3 cucharadas de aceite vegetal",
+        "Hojas de bijao",
+        "Pabilo o hilo para amarrar"
+    ],
+    "Procedimiento": [
+        "Sazonar el pollo con sal, pimienta y comino.",
+        "Preparar un aderezo con aceite, cebolla, ajo y palillo.",
+        "Agregar el arroz al aderezo y cocinarlo parcialmente.",
+        "Pasar las hojas de bijao por el fuego para suavizarlas.",
+        "Colocar arroz sobre la hoja, una presa de pollo y medio huevo.",
+        "Cubrir con más arroz y envolver formando un paquete.",
+        "Amarrar con pabilo y hervir en agua por 45 minutos.",
+        "Retirar, escurrir y servir caliente."
+    ],
+    "Imagen": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2022/06/21/000877563W.webp",
+    "color": "#C8E6C9"
+}
+}
